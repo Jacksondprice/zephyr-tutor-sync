@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+gem 'sinatra', '~> 4.0'
+gem 'pg', '~> 1.5'
+gem 'rspec', group: :test
